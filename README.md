@@ -1,4 +1,3 @@
 # hello-world
 ---------------
-Initial  repository in github
-I am taking this course online
+This is the initial entry for Phyton for Everyone
